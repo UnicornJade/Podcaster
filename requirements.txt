@@ -1,0 +1,12 @@
+openai
+langchain
+selenium
+streamlit
+pandas
+numpy
+pillow
+cycler
+pyparsing
+streamlit-option-menu
+azure-cognitiveservices-speech
+torchaudio
